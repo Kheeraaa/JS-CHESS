@@ -19,13 +19,17 @@
 }
 
 .beige {
-    background-color: beige;
+    background-color: pink;
 }
 
 .brown {
-    background-color: brown;
+    background-color: purple;
 }
 
 .black {
-    fill: red;
+    fill: black;
+}
+
+.white {
+    fill: white;
 }
